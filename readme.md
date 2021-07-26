@@ -2,7 +2,7 @@
 **[ARTICULO EXTRAIDO DEL BLOG](https://ivansantander.com/blog/index.php/2021/07/26/rick-morty-api-app-ionic-rick-morty/)**
 
 
-**[EL SIGUIENTE EJERCICIO ESTA BASADO EL TUTORIAL DE FAZT](https://www.youtube.com/watch?v=hI5PJkXCKJs&t=125s)**
+**[EL SIGUIENTE EJERCICIO ESTA BASADO EN EL TUTORIAL DE FAZT](https://www.youtube.com/watch?v=hI5PJkXCKJs&t=125s)**
 
 
 **Herramientas**
