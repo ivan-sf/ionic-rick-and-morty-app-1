@@ -1,3 +1,7 @@
+
+[ARTICULO EXTRAIDO DEL BLOG](https://ivansantander.com/blog/index.php/2021/07/26/rick-morty-api-app-ionic-rick-morty/)
+
+
 **Herramientas**
 ----------------
 
